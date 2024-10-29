@@ -1,0 +1,7 @@
+C:\Users\ckras\OneDrive\Belgeler\C#\05_LoopWithStars\05_LoopWithStars\bin\Debug\05_LoopWithStars.exe.config
+C:\Users\ckras\OneDrive\Belgeler\C#\05_LoopWithStars\05_LoopWithStars\bin\Debug\05_LoopWithStars.exe
+C:\Users\ckras\OneDrive\Belgeler\C#\05_LoopWithStars\05_LoopWithStars\bin\Debug\05_LoopWithStars.pdb
+C:\Users\ckras\OneDrive\Belgeler\C#\05_LoopWithStars\05_LoopWithStars\obj\Debug\05_LoopWithStars.csproj.AssemblyReference.cache
+C:\Users\ckras\OneDrive\Belgeler\C#\05_LoopWithStars\05_LoopWithStars\obj\Debug\05_LoopWithStars.csproj.CoreCompileInputs.cache
+C:\Users\ckras\OneDrive\Belgeler\C#\05_LoopWithStars\05_LoopWithStars\obj\Debug\05_LoopWithStars.exe
+C:\Users\ckras\OneDrive\Belgeler\C#\05_LoopWithStars\05_LoopWithStars\obj\Debug\05_LoopWithStars.pdb

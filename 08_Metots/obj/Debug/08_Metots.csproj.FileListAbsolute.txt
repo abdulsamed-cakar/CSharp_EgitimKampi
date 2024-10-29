@@ -1,0 +1,6 @@
+C:\Users\ckras\OneDrive\Belgeler\C#\08_Metots\08_Metots\bin\Debug\08_Metots.exe
+C:\Users\ckras\OneDrive\Belgeler\C#\08_Metots\08_Metots\bin\Debug\08_Metots.pdb
+C:\Users\ckras\OneDrive\Belgeler\C#\08_Metots\08_Metots\obj\Debug\08_Metots.csproj.AssemblyReference.cache
+C:\Users\ckras\OneDrive\Belgeler\C#\08_Metots\08_Metots\obj\Debug\08_Metots.csproj.CoreCompileInputs.cache
+C:\Users\ckras\OneDrive\Belgeler\C#\08_Metots\08_Metots\obj\Debug\08_Metots.exe
+C:\Users\ckras\OneDrive\Belgeler\C#\08_Metots\08_Metots\obj\Debug\08_Metots.pdb

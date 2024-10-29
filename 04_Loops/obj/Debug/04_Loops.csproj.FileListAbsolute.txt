@@ -1,0 +1,6 @@
+C:\Users\ckras\OneDrive\Belgeler\C#\04_Loops\04_Loops\obj\Debug\04_Loops.csproj.AssemblyReference.cache
+C:\Users\ckras\OneDrive\Belgeler\C#\04_Loops\04_Loops\obj\Debug\04_Loops.csproj.CoreCompileInputs.cache
+C:\Users\ckras\OneDrive\Belgeler\C#\04_Loops\04_Loops\bin\Debug\04_Loops.exe
+C:\Users\ckras\OneDrive\Belgeler\C#\04_Loops\04_Loops\bin\Debug\04_Loops.pdb
+C:\Users\ckras\OneDrive\Belgeler\C#\04_Loops\04_Loops\obj\Debug\04_Loops.exe
+C:\Users\ckras\OneDrive\Belgeler\C#\04_Loops\04_Loops\obj\Debug\04_Loops.pdb
