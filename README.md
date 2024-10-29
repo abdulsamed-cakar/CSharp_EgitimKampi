@@ -1,6 +1,6 @@
 # <h1>🛸CSharp_Egitim_Kampı</h1>
 
-Bu repo, Murat Yücedağ eğitmenliğiyle C# Eğitimi Kampı 101 modülüdür.Bu süreçte her bir derste C#'ı adım adım anlama ve uygulama yapılmıştır.
+Bu repo, Murat Yücedağ eğitmenliğiyle C# Eğitimi Kampı modülüdür.Bu süreçte her bir derste C#'ı adım adım anlama ve uygulama yapılmıştır.
 Aşağıda derslere ait detayları bulabilirsiniz:
 
 ## <h3>📍01_MainSubject<h3>     
